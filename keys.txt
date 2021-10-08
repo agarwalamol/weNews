@@ -1,0 +1,2 @@
+AccuWeather =http://dataservice.accuweather.com/forecasts/v1/daily/5day/204848?apikey=FynP3D94HCGNIeFlAbsBTT3esCoeDmk0&details=false&metric=true
+news = https://newsapi.org/v2/everything?q=lenovo&from=2021-10-07&sortBy=popularity&apiKey=5f333b7e0fcd44e4b945d4a54c639290

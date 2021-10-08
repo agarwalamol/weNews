@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amol Agarwal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
 }
